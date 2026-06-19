@@ -2,8 +2,9 @@
 # It assumes the average return and volatility are true
 # annual rebalancing and dollar cost averaging are not yet simulated
 
+
 # Notes to self:
-# use functions
+# use functions to avoid clutter
 # state function I/O and I/O datatypes
 # use classes for data storage (Might be smart, but look into how to implement)
 # set temporary variable anew each time they are used (within a scope) (for example, the sum needs to be reset before it is used again with +=)
